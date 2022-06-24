@@ -16,7 +16,8 @@ public class first
 
     public static void main(String[] args)
 {
-
+    
+        System.out.print();
    System.out.println("Enter the number of Disks to Be Transfered Yash");
    Scanner sc=new Scanner(System.in);
    int n=sc.nextInt();
